@@ -188,7 +188,6 @@ input[type=text]:hover {
 .dropdown:hover .dropdown-content {
   display: block;
 }
-body {cursor: url(../icons/peo1020.cur)}
 #myBtn {
   display: none; /* Hidden by default */
   position: fixed; /* Fixed/sticky position */
